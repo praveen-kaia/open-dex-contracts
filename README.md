@@ -38,7 +38,7 @@ services:
       - ./.env:/app/.env
       - ./deployments:/app/deployments
     environment:
-      DEX_NETWORK_NAME: baobab
+      DEX_NETWORK_NAME: kairos
 ```
 
 ```bash
